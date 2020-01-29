@@ -20,10 +20,8 @@ A one sentence description of the lab.
 
 ## Getting Started
 
-1. All steps for the exercise should go in this section.
-
-1. For example: Fork and clone this repository
-
+1. Fork this repository.
+1. Clone the forked repository to your computer.
 1. Include setup instructions such as, installing dependencies, or running a script like
 
    ```bash
