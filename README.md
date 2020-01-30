@@ -4,13 +4,19 @@
 
 A one sentence description of the lab.
 
-#### Learning Objectives
+### Learning Objectives
 
 - One learning objective here
 - Practice some skill
 - etc.
 
-#### Prerequisites
+### Standards
+
+- FSW6.1.a
+- EF1.5
+- etc
+
+### Prerequisites
 
 - Experience with some topic
 - Familiarity with some other topic
