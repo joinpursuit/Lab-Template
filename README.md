@@ -4,19 +4,19 @@
 
 A one sentence description of the lab.
 
-### Learning Objectives
+## Learning Objectives
 
 - One learning objective here
 - Practice some skill
 - etc.
 
-### Standards
+## Standards
 
 - FSW6.1.a
 - EF1.5
 - etc
 
-### Prerequisites
+## Prerequisites
 
 - Experience with some topic
 - Familiarity with some other topic
@@ -28,13 +28,15 @@ A one sentence description of the lab.
 
 1. Fork this repository.
 1. Clone the forked repository to your computer.
+1. `cd` to the cloned directory
+1. `npm install` to install dependencies
 1. Include setup instructions such as, installing dependencies, or running a script like
 
    ```bash
    psql -f db/schema.sql
    ```
 
-## Deliverables
+## Deliverables (optional)
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur, voluptatibus, eaque sint voluptatum laboriosam commodi mollitia accusantium a ipsum quam repellendus cupiditate aspernatur, neque minima architecto voluptas quidem.
 
@@ -50,7 +52,7 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur, voluptatibus, 
 - Make a pull request on the repository
 - etc.
 
-### Resources
+## Resources
 
 - [A link to relevant documentation](https://www.google.com/)
 - Or another [free practice resource](https://www.google.com/)
