@@ -10,12 +10,6 @@ A one sentence description of the lab.
 - Practice some skill
 - etc.
 
-## Standards
-
-- FSW6.1.a
-- EF1.5
-- etc
-
 ## Prerequisites
 
 - Experience with some topic
